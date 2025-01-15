@@ -1,3 +1,3 @@
 # [Fater.ai](https://fater.ai)
 
-We automate architecture
+We build AEC design software for the AI era.
